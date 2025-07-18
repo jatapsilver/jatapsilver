@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=20&center=true&vCenter=true&width=800&height=120&lines=Javier+Plata+-+Full+Stack+Developer+%26+Solidity;Blockchain+is+the+future+of+trust+and+transparency;Decentralization+empowers+individuals;Smart+contracts+are+revolutionizing+the+way+we+interact;Blockchain+is+changing+the+world;The+future+is+built+on+trust+and+transparency;Exploring+new+possibilities+with+Web3+and+DeFi;Crypto+and+Blockchain+are+here+to+stay">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=20&center=true&vCenter=true&width=800&height=120&lines=Javier+Plata+-+Full+Stack+Developer+%26+Ethereum+Developer;Blockchain+is+the+future+of+trust+and+transparency;Decentralization+empowers+individuals;Smart+contracts+are+revolutionizing+the+way+we+interact;Blockchain+is+changing+the+world;The+future+is+built+on+trust+and+transparency;Exploring+new+possibilities+with+Web3+and+DeFi;Crypto+and+Blockchain+are+here+to+stay">
   </a>
 </p>
 
